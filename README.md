@@ -62,34 +62,6 @@ I am a Software Engineer and Competitive Programmer who is passionate about prog
 <a href="https://www.hackerrank.com/profile/FelipeOP"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"  /></a>
 </div>
 
-## Projects
-
-<div>
-  <p align="center">
-    <a href="https://github.com/ProventusCode/Proventus">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProventusCode&repo=Proventus&theme=holi" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/FelipeOP/AutoIT">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeOP&repo=AutoIT&theme=holi" alt="AutoIT" />
-    </a>
-    <a href="https://github.com/FelipeOP/Antpire">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeOP&repo=Antpire&theme=holi" alt="Antpire" />
-    </a>
-    <a href="https://github.com/FelipeOP/musicfy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeOP&repo=musicfy&theme=holi" alt="Musicfy" />
-    </a>
-    <a href="https://github.com/FelipeOP/ridc-service">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeOP&repo=ridc-service&theme=holi" alt="ridc-service" />
-    </a>
-    <a href="https://github.com/FelipeOP/ridc-starter">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeOP&repo=ridc-starter&theme=holi" alt="ridc-starter" />
-    </a>
-    <a href="https://github.com/FelipeOP/disable-service">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeOP&repo=disable-service&theme=holi" alt="disable-service" />
-    </a>
-  </p>
-</div>
-
 ## Contact me:
 
 <div align="center">
