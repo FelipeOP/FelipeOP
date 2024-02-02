@@ -19,7 +19,7 @@ I am a Software Engineer and Competitive Programmer who is passionate about prog
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,dart,java,py,bash,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,dart,java,py,bash" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ I am a Software Engineer and Competitive Programmer who is passionate about prog
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,selenium,github,linux,md,maven,vite,regex,vscode,idea,vercel,firebase,supabase,azure,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,docker,postman,selenium,github,linux,md,maven,vite,regex,vscode,idea,vercel,firebase,supabase,azure&perline=8" />
   </a>
 </p>
 
