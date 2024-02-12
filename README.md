@@ -65,7 +65,7 @@ I am a Software Engineer and Competitive Programmer who is passionate about prog
 ## Contact me:
 
 <div align="center">
-<a href="https://www.canva.com/design/DAF6i6SHzXA/kAtEzICvUNiFiJvpHJC6SQ/view?utm_content=DAF6i6SHzXA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" rel="noopener"><img loading="lazy" src="https://img.shields.io/badge/-Resume-f9cf5a?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a>
+<a href="https://resume.io/r/C1KVLdnUd" rel="noopener"><img loading="lazy" src="https://img.shields.io/badge/-Resume-f9cf5a?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/f-salamanca/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:feljpe000@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
